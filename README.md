@@ -1,2 +1,5 @@
 # hello-world
-Primer clase/programa
+Descripción: primer clase/programa
+
+Cuerpo como en **Markdown**
+
